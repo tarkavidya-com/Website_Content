@@ -1,4 +1,4 @@
-# Demo for Tarkavidya
+# Demo for Tarkavidya (तर्कविद्या)
 (tarkavidya.com)
 # Demo Tarka Text
 The _Nyāya Sūtras _(c 200 C.E.) are the foundational text of the Nyāya school of Hindu philosophy, authored by **Akṣapāda Gautama**. It is a vital text of ancient Indian logic, epistemology, and metaphysics consisting of 528-530 aphorisms (sutras) organised into five books.
